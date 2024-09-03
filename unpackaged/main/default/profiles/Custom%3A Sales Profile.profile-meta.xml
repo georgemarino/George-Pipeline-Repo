@@ -577,6 +577,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Contact.Handover_Notes__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Contact.Hotfix_Field_Checkbox__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -823,6 +828,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Opportunity.CurrentGenerators__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Opportunity.Date_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
